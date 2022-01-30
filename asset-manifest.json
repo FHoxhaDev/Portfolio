@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a057d87c.chunk.css",
+    "main.js": "/Portfolio/static/js/main.8f8e2542.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.8f8e2542.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.af82bce1.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.af82bce1.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/Portfolio/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.66bde2d6.chunk.js": "/Portfolio/static/js/2.66bde2d6.chunk.js",
+    "static/js/2.66bde2d6.chunk.js.map": "/Portfolio/static/js/2.66bde2d6.chunk.js.map",
+    "static/js/3.53069aca.chunk.js": "/Portfolio/static/js/3.53069aca.chunk.js",
+    "static/js/3.53069aca.chunk.js.map": "/Portfolio/static/js/3.53069aca.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/Portfolio/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.a057d87c.chunk.css.map": "/Portfolio/static/css/main.a057d87c.chunk.css.map",
+    "static/js/2.66bde2d6.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.66bde2d6.chunk.js.LICENSE.txt",
+    "static/media/FlorianHoxhaCV.2114d86b.pdf": "/Portfolio/static/media/FlorianHoxhaCV.2114d86b.pdf",
+    "static/media/about.aee0f771.png": "/Portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.0491d08e.svg": "/Portfolio/static/media/avatar.0491d08e.svg",
+    "static/media/blog.52102140.png": "/Portfolio/static/media/blog.52102140.png",
+    "static/media/certi.75eaf4d5.png": "/Portfolio/static/media/certi.75eaf4d5.png",
+    "static/media/certi2.e85d7ca1.webp": "/Portfolio/static/media/certi2.e85d7ca1.webp",
+    "static/media/certi3.452ce993.webp": "/Portfolio/static/media/certi3.452ce993.webp",
+    "static/media/certi4.43682421.webp": "/Portfolio/static/media/certi4.43682421.webp",
+    "static/media/certi5.3e522351.webp": "/Portfolio/static/media/certi5.3e522351.webp",
+    "static/media/emotion.e92e314a.jpeg": "/Portfolio/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/Portfolio/static/media/pre.d4812f51.svg",
+    "static/media/home-main.3deeb8e2.svg": "/Portfolio/static/media/home-main.3deeb8e2.svg",
+    "static/media/nextuLogo.c2518606.webp": "/Portfolio/static/media/nextuLogo.c2518606.webp",
+    "static/media/olsa.8e2798be.jpg": "/Portfolio/static/media/olsa.8e2798be.jpg",
+    "static/media/suicide.b72f1f9f.png": "/Portfolio/static/media/suicide.b72f1f9f.png",
+    "static/media/testoje.2d4f6832.webp": "/Portfolio/static/media/testoje.2d4f6832.webp",
+    "static/media/uipath-vector-logo.ad8e91e7.svg": "/Portfolio/static/media/uipath-vector-logo.ad8e91e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af82bce1.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.66bde2d6.chunk.js",
+    "static/css/main.a057d87c.chunk.css",
+    "static/js/main.8f8e2542.chunk.js"
+  ]
+}
