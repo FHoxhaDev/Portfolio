@@ -19,7 +19,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       upadateLoad(false);
-    }, 4200);
+    }, 1200);
     
     return () => clearTimeout(timer);
   }, []);
@@ -31,8 +31,8 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/project" component={Projects} />
+          <Route path="/Portfolio" exact component={Home} />
+          <Route path="/project" exact component={Projects} />
           <Route path="/about" component={About} />
           <Route path="/resume" component={Resume} />
         </Switch>
